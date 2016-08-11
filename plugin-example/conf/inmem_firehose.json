@@ -1,0 +1,6 @@
+{
+  "params": {
+     "values": "one,two,three,four,five"
+   },
+   "clazz": "io.dashbase.sample.plugin.firehose.InMemoryListFirehose"
+}
