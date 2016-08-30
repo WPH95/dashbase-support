@@ -1,6 +1,6 @@
 {
   "params": {
-     "values": "one,two,three,four,five"
+     "port": "9999"
    },
-   "clazz": "io.dashbase.sample.plugin.firehose.InMemoryListFirehose"
+   "clazz": "io.dashbase.sample.plugin.firehose.HttpFirehose"
 }
